@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on NLP, Knowledge Graphs, Quant Finance
+- 🌱 I’m currently learning Python(Grakn, spaCy, gensim)
+- 💬 Ask me about ...
+- 📫 How to reach me: via email
+- ⚡ Fun fact: Life is hard
+
 <!--
 **kvtoraman/kvtoraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
