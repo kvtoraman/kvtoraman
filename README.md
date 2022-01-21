@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NLP, Knowledge Graphs, Quant Finance
-- 🌱 I’m currently learning Python(Grakn, spaCy, gensim)
+- 🌱 I’m currently learning Python(Neo4J, Grakn, spaCy, gensim)
 - 💬 Ask me about : how to fail fast
 - 📫 How to reach me: via email
 - ⚡ Fun fact: Life is hard
